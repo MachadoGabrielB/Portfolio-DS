@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gabriel Machado</h1>
+<h1 align="center">Hi, I'm Gabriel Bassetti Machado</h1>
 <h3 align="center">Constantly seeking knowledge</h3>
 
 - I’m currently learning **Neural Network and Deep Learning**
